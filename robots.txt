@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://punchshadow.github.io/punchshadow.github.io/sitemap.xml
+Sitemap: https://PunchShadow.github.io/PunchShadow.github.io/sitemap.xml
