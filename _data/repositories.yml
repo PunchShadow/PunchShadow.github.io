@@ -3,5 +3,8 @@ github_users:
 
 github_repos:
   - NTUDDSNLab/DFQ-BFS
+  - NTUDDSNLab/WBPR
+  - NTUDDSNLab/cuMBE
+  - NTUDDSNLab/SRGCL
   - PunchShadow/TinySTMRocks
 

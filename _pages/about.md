@@ -7,11 +7,11 @@ subtitle: A PhD candidate in <a href='https://www.ntu.edu.tw/english/'>National 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   address: >
-    <p>(+886) 971-285958</p>
-    <p> Jinshan S. Rd </p>
-    <p> Taiwan, Taipei 106 </p>
+    <p>(+1) (608) 217-7129 </p>
+    <p> 47105 Sheboygan Ave Apt. 215 </p>
+    <p> Madison, WI, 53705 </p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -19,9 +19,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-:wrench: under construction :wrench:
+:sparkles: Welcome to my universe! :sparkles:
 
-Hello I'm Chou-Ying Hsieh or you can call me PunchShadow. 
+Hello I'm Chou-Ying (Austin) Hsieh or you can call me PunchShadow, an open-sourced contributor. I'm an PhD candidate in Department of Electrical Engineering, National Taiwan University. Currently, I am visiting [Prof. Tsung-Wei (TW) Huang's lab](https://tsung-wei-huang.github.io/) at the Department of Electrical and Computer Engineering (ECE) in the University of Wisconsin at Madison. My research focuses on GPU-accelerated graph processing, parallel computing, large-scale data analysis and graph neural network. 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
